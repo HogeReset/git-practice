@@ -1,2 +1,6 @@
 这是一个测试
-这是 master 分支添加的内容
+<<<<<<< HEAD
+这是 master分支和test分支添加的内容
+=======
+这是 test分支和master分支添加的内容
+>>>>>>> test
